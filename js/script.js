@@ -24,6 +24,8 @@
         new_link += '    </a>';
         new_link += '</li>';
         $('#user-links').prepend(new_link);
-    };
 
+        // 3. Add explore entrance
+        $('.header-nav.left').prepend('<li class="header-nav-item"><a href="/explore" class="js-selected-navigation-item header-nav-link">Explore</a></li>');
+    };
 });
