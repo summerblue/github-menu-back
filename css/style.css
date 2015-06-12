@@ -1,0 +1,60 @@
+#teambition-improve .task {
+  overflow: hidden;
+}
+#teambition-improve .modal-content {
+  width: 900px;
+}
+#teambition-improve .task .task-content-set {
+  margin-left: 0px;
+}
+#teambition-improve .tasklist-bar.hack-render-bug {
+  width: 250px !important;
+  left: -250px !important;
+  transform: translate(250px, 0px) !important;
+}
+#teambition-improve .board-scrum-view.pin-tasklist-bar {
+  padding-left: 250px;
+}
+#teambition-improve .board-scrum-view.pin-tasklist-bar .board-scrum-content {
+  left: 249px;
+}
+#teambition-improve .task-priority-0 .task-priority-hint {
+  background-color: #4EBACD;
+}
+#teambition-improve .task-priority-hint {
+  width: 5px;
+}
+#teambition-improve .task .check-box {
+  margin: 10px 8px;
+}
+#teambition-improve .scrum-stage {
+  width: 33%;
+}
+#teambition-improve .tasklist-strip-wrap, #teambition-improve .tasklist-description {
+  display: none;
+}
+#teambition-improve .task-content-wrapper, #teambition-improve .task-content-wrapper, #teambition-improve .task-content-set .avatar.img-circle.img-24, #teambition-improve .task-info-wrapper {
+  float: left;
+}
+#teambition-improve .task .task-content-wrapper {
+  margin-left: 8px;
+}
+#teambition-improve .task-info-wrapper .label.label-info {
+  width: 20px;
+}
+#teambition-improve .task-content-set {
+  overflow: hidden;
+}
+#teambition-improve .task .task-info-wrapper {
+  margin-top: 0px;
+}
+#teambition-improve .task .task-info-wrapper .label {
+  margin: 0px 2px;
+}
+#teambition-improve .task-detail .task-wrapper .task-content-wrapper {
+  margin-left: 0px;
+}
+
+#teambition-improve .task-detail .task-wrapper .task .check-box {
+    margin: 5px 10px 5px 0;
+}
