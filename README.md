@@ -10,7 +10,7 @@ I feel a lot of pain on the New Design of Github Top Menu, Can not go to my pers
 
 ## Screenshots
 
-![screen-shot](https://cloud.githubusercontent.com/assets/324764/8122590/9be6d83c-10ee-11e5-949a-371bfd5ddbdd.png)
+![image](https://cloud.githubusercontent.com/assets/324764/8122848/ce8042b6-10f2-11e5-9df4-f2b0ee839fa1.png)
 
 ## License
 
